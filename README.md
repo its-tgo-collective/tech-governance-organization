@@ -1,5 +1,6 @@
 # Individual Tech Seal (ITS) & Tech-Governance-Organization (TGO)
 
+[![DOI](https://zenodo.org/badge/1450460074.svg)](https://doi.org/10.5281/zenodo.24056813)
 [![DOI](https://zenodo.org/badge/1450365249.svg)](https://doi.org/10.5281/zenodo.24055640)
 
 **Status:** Initial Release (v1.0.0)
