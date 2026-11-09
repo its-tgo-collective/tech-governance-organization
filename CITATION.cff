@@ -3,7 +3,7 @@ message: "If you use this framework, please cite it as below."
 title: "Tech-Governance-Organization (TGO) Framework"
 authors:
   - name: "The ITS-TGO Collective"
-version: 1.0.0
+version: 1.1.0
 doi: "10.5281/zenodo.24056814"
 date-released: "2026-11-08"
 license: CC0-1.0
