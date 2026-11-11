@@ -9,4 +9,4 @@ However, the **Application** of this framework is strictly bound to the **Core I
 *   The prevention of corporate regulatory capture.
 *   The establishment of a transparent, independent reference authority for critical technologies.
 
-Any use of this framework to establish a new centralized, unaccountable power structure, or to dilute its strict anti-lobbying and transparency mechanisms, is explicitly rejected. 
+Any use of this framework to establish a new centralized, unaccountable power structure, or to dilute its strict anti-lobbying and transparency mechanisms, is explicitly rejected. The framework cannot be used to build new monopolies.
