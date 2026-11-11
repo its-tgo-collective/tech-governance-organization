@@ -1,5 +1,10 @@
 # Tech-Governance-Organization (TGO)
 **A Structured Concept for Independent Global Tech Governance**
+
+**Version:** 1.3.0
+**Status:** Release
+**License:** CC0 1.0 Universal (Public Domain)
+
 *Guiding Principle: Zero Trust without limitation architecture.*
 
 > **Legal Notice on the Text and its Application:**
@@ -38,9 +43,7 @@ Any implementation, modification, or adaptation of this framework (whether by st
 *   17a. Communication as a Condition of Existence
 *   18. Critical Risks & Countermeasures
 *   19. Red Team: How to undermine the TGO
-*   20. Next Steps
-*   21. Deepening Prompt
-*   22. Appendix: Glossary
+*   20. Appendix: Glossary
 *   Change Log
 
 ---
@@ -85,7 +88,7 @@ The TGO is not a police force. It is an independent reference authority. Its exi
 
 The TGO takes no sovereign rights. It fills gaps, gives the EU time, and creates fair competition.
 
-**The Technical Executive (ITS):** A central component of the TGO is the technical enforceability of its standards. While the TGO focuses on political and institutional pressure, the **Individual Tech Seal (ITS)** operates at the hardware level. Anyone using an ITS-protected work automatically agrees to the TGO standards. Violations (e.g., unauthorized AI training) are technically blocked by the ITS and automatically sanctioned via Smart Contracts. The ITS is published as Open Source (DOI: `[Insert ITS DOI]`) and forms the decentralized infrastructure for the TGO.
+**The Technical Executive (ITS):** A central component of the TGO is the technical enforceability of its standards. While the TGO focuses on political and institutional pressure, the **Individual Tech Seal (ITS)** operates at the hardware level. Anyone using an ITS-protected work automatically agrees to the TGO standards. Violations (e.g., unauthorized AI training) are technically blocked by the ITS and automatically sanctioned via Smart Contracts. The ITS is published as Open Source (DOI: `10.5281/zenodo.24055640`) and forms the decentralized infrastructure for the TGO.
 
 ---
 
@@ -167,7 +170,7 @@ Principle: Efforts must be rewarded. Compliance must yield tangible advantages.
 *   **Honest Note:** This is the end goal, not the starting point. In the beginning, the network needs the shield (3.6) and incentives (3.7) to grow.
 
 ### 3.8 The Technical Executive: The Individual Tech Seal (ITS)
-The TGO is the institutional reference. But a rulebook is only as strong as its enforcement. This is where the **ITS** comes in, published as an independent Open Source project (DOI: `[Insert ITS DOI]`).
+The TGO is the institutional reference. But a rulebook is only as strong as its enforcement. This is where the **ITS** comes in, published as an independent Open Source project (DOI: `10.5281/zenodo.24055640`).
 *   **Hardware Binding (Z6):** The ITS uses hardware security elements (TEE) to technically enforce TGO rules. If an AI attempts to scrape a protected work, the chip's Z6 Vector blocks access.
 *   **Automated Sanctions:** Smart Contracts immediately sanction violations financially, relieving the TGO of lengthy court proceedings.
 *   **Biography Fragment (Aura):** The ITS protects works by binding them cryptographically to the creator. The TGO recognizes this seal as the official standard.
@@ -567,7 +570,7 @@ The decisive strategic sequence follows the "Milestone Principle":
 
 **The Draghi Lesson:** The Draghi Report was strong in diagnosis – and then what often happens happened: Everyone praised it, nobody implemented it. The lesson for the TGO: An announcement that is only a concept creates exactly this pattern. The difference: Draghi had to convince 27 states. The TGO only needs to convince enough partners to start. It needs a first visible step. The announcement must therefore not present a concept but a first concrete step plus the invitation to develop it together. Not "Here is my vision," but "Here is the first standard, the first certification, the first audit – and here is the process for how we develop it together."
 
-**A First Visible Milestone is the Individual Tech Seal (ITS).** It has already been published as an Open Source project (DOI: `[Insert ITS DOI]`) and serves as a technical prototype for the TGO's governance standards. It proves to the world that the TGO can not only talk but deliver.
+**A First Visible Milestone is the Individual Tech Seal (ITS).** It has already been published as an Open Source project (DOI: `10.5281/zenodo.24055640`) and serves as a technical prototype for the TGO's governance standards. It proves to the world that the TGO can not only talk but deliver.
 
 **The Support Structure (Trägerstruktur):** A faceless initiative seems abstract, suspicious, untrustworthy. An initiative hanging on one person seems like a one-man show and is blackmailable. The solution is the support structure: Not the founder as a person is the face, but a group of recognized individuals – ethicists, lawyers, scientists, NGO representatives – acting as a founding advisory board or first signatories. The founder remains in the background, but the structure is visible.
 
@@ -767,51 +770,7 @@ Positive incentives (3.7) are an additional antidote – they create a visible b
 
 ---
 
-## 20. Next Steps
-
-1.  Creation of a contact list: Identification of key contacts in the Draghi Report environment (e.g., Rhine Group, Bruegel), GDPR authorities, and ethics councils.
-2.  Strategy for the approach: Development of a pitch (short summary) that clearly highlights the added value of the TGO for these actors without revealing the founder.
-3.  Elaboration of the Multi-Eye Principle: Detailed definition of how mutual testing (Adversarial Auditing) is legally and organizationally secured.
-4.  Elaboration of "Protective Sensing": Clarification of licensing mechanisms and protection of user identities (Glass Vault).
-5.  Definition of anti-indulgence: Stipulation that payments to the fund do not allow buying off the blacklist – and no benefits with positive incentives (3.7).
-6.  Development of the shield mechanism: How exactly does the TGO support companies pressured by their home states?
-7.  Legal review: Clarification of liability issues and the legal structure for the Rule of Law Fund by specialized law firms (MME Legal).
-8.  Constitute Biotech Expert Commission.
-9.  Constitute Spaceflight Expert Commission.
-10. Constitute Quantum Expert Commission.
-11. Strive for international recognition.
-12. Conduct Red Team exercise: Stress test scenarios, early warning indicators, emergency plans.
-13. Define standards for AI in safety-critical applications.
-14. Include regulation of optical communication as an independent area.
-15. Integrate hyperscaler case studies (Microsoft) into standard-setting.
-16. GDPR fines: Develop position on profit disgorgement and turnover scaling.
-17. Develop refinery transparency standards.
-18. Analyze EU Trade Defence Instruments and develop a position on their enforcement.
-19. Bridge between tech governance and everyday problems: Educational work, visible successes, alliances.
-20. Analyze CADA and develop a position on sovereignty levels, US discrimination accusations, and US double standards.
-21. Demand ESSPASS hardware guarantees.
-22. Evacuation capacities and emergency plans.
-23. Clarify umbrella structure with MME.
-24. Elaborate founder exit and symmetrical veto right with MME.
-25. Build support structure for the announcement.
-26. Establish communication strategy as an independent pillar.
-27. Document EU funding (MFR, Draghi, EuroStack) and demand transparency.
-28. Include geopolitical dependencies as a cross-cutting issue.
-29. Make energy infrastructure and storage transparent.
-30. Position copyright and licenses as a cross-cutting issue (incl. ITS interconnection).
-31. Operationalize positive incentives (3.7): Set up coordination office, develop criteria.
-32. Elaborate support for dependent companies (3.7a).
-33. Strategically plan interweaving (3.7b).
-34. Communication of positive incentives (17a).
-
----
-
-## 21. Deepening Prompt for Further Work
-*(A summary prompt for handing over the TGO concept to AI assistants or external consultants for further elaboration, including the ITS integration, to maintain the Core Intent.)*
-
----
-
-## 22. Appendix: Glossary
+## 20. Appendix: Glossary
 
 *   **TGO:** Tech-Governance-Organization
 *   **ITS:** Individual Tech Seal (The hardware-bound licensing system)
