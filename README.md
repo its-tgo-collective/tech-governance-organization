@@ -1,11 +1,11 @@
 # Individual Tech Seal (ITS) & Tech-Governance-Organization (TGO)
 
-[![DOI](https://zenodo.org/badge/1450460074.svg)](https://doi.org/10.5281/zenodo.24056813)
-[![DOI](https://zenodo.org/badge/1450365249.svg)](https://doi.org/10.5281/zenodo.24055640)
+[![DOI](https://zenodo.org/badge/1450365249.svg)](https://doi.org/10.5281/zenodo.24055640) *(ITS Concept DOI)*
+[![DOI](https://zenodo.org/badge/1450460074.svg)](https://doi.org/10.5281/zenodo.24056813) *(TGO Concept DOI)*
 
-**Status:** Initial Release (v1.0.0)
+**Status:** Release v1.3.0 — Hardened & Aligned
 **License for this Text (Concept):** CC0 1.0 Universal (Public Domain)
-**License for Protected Works (Application):** ITS Public License v1.0 (See `LICENSE` file)
+**License for Protected Works (Application):** ITS Public License v1.1 (See `LICENSE` file)
 
 ---
 
@@ -15,8 +15,8 @@ This repository is not the intellectual property of a single individual. It is t
 The release of this framework is bound by an inalienable purpose: **The protection of creators from exploitation, fair compensation through micro-royalties, and the technical impossibility of unauthorized AI training.** 
 
 **The Two-Level Legal Model:**
-1. **The Concept (This Text):** The text of this concept and the technical specifications are released under **CC0 1.0 Universal (Public Domain)**. You can copy, modify, and distribute the *text* without asking permission. This is done to ensure maximum distribution and rapid adoption.
-2. **The Application (The Tool):** However, if you use the **ITS framework** to protect your own works (software, art, data), the **ITS Public License v1.0** applies. You are strictly bound to the Core Intent mentioned above. Any attempt to use the ITS system to establish a new centralized, unaccountable power structure, or to dilute its strict anti-lobbying and transparency mechanisms, is explicitly rejected. The ITS is designed to be a shield for the public, not a weapon for the powerful.
+1.  **The Concept (This Text):** The text of this concept and the technical specifications are released under **CC0 1.0 Universal (Public Domain)**. You can copy, modify, and distribute the *text* without asking permission. This is done to ensure maximum distribution and rapid adoption.
+2.  **The Application (The Tool):** However, if you use the **ITS framework** to protect your own works (software, art, data), the **ITS Public License v1.1** applies. You are strictly bound to the Core Intent mentioned above. Any attempt to use the ITS system to establish a new centralized, unaccountable power structure, or to dilute its strict anti-lobbying and transparency mechanisms, is explicitly rejected. The ITS is designed to be a shield for the public, not a weapon for the powerful.
 
 ---
 
@@ -29,14 +29,14 @@ The ITS is a hardware-enforced, immutable licensing architecture. It solves the 
 *   **Hardware Binding (Z6):** Prevents unauthorized AI training at the chip level.
 *   **Biography Fragment (Aura):** Cryptographically binds the work to the creator, making it useless to unauthorized AI models.
 *   **Smart Contracts:** Automatically enforces micro-royalties and penalizes violations.
-*   *See `ITS_Concept.md` and the `LICENSE` file for details.*
+*   *See the `ITS_Concept.md` and the `LICENSE` file for details.*
 
 ### 2. The Institutional Guardian: Tech-Governance-Organization (TGO)
 The TGO is the institutional arm. It is an independent, civil-society-funded network that acts as a "lightning rod" for politicians. It sets global standards, sanctions violations, and protects the ITS ecosystem.
 *   **Anti-Capture:** Funded only by civil society (caps, KYC) to prevent corporate lobbying.
 *   **Positive Incentives:** Rewards compliance through supply chain prioritization and resource sharing.
 *   **Multi-Eye Principle:** Ensures transparency through adversarial auditing.
-*   *See `TGO_Concept.md` and `Strategic_Pitch.md` for details.*
+*   *See the `TGO_Concept.md` and `Strategic_Pitch.md` files for details.*
 
 ---
 
