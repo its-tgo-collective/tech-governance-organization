@@ -1,0 +1,47 @@
+{
+  "title": "TGO – Tech-Governance-Organisation (Strukturiertes Konzept)",
+  "upload_type": "publication",
+  "version": "1.0.0",
+  "publication_date": "2026-11-15",
+  "license": "CC0-1.0",
+  "access_right": "open",
+  "creators": [
+    { "name": "The ITS-TGO Collective" }
+  ],
+  "keywords": [
+    "tech-governance",
+    "data-sovereignty",
+    "ai-act",
+    "data-act",
+    "cloud-act",
+    "governance",
+    "eu-policy",
+    "tgo"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24056813",
+      "relation": "references",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.24055640",
+      "relation": "references",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.24093654",
+      "relation": "references",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://github.com/its-tgo-collective/tech-governance-organization",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "communities": [
+    { "identifier": "its-collective" }
+  ],
+  "grants": []
+}
