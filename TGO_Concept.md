@@ -175,6 +175,14 @@ The TGO is the institutional reference. But a rulebook is only as strong as its 
 *   **Automated Sanctions:** Smart Contracts immediately sanction violations financially, relieving the TGO of lengthy court proceedings.
 *   **Biography Fragment (Aura):** The ITS protects works by binding them cryptographically to the creator. The TGO recognizes this seal as the official standard.
 By integrating the ITS into TGO standards, a closed ecosystem is created: The TGO certifies actors using the ITS, and the ITS enforces TGO rules.
+    *   **Biography Fragment (Aura):** The ITS protects works by binding them cryptographically to the creator. The TGO recognizes this seal as the official standard. By integrating the ITS into TGO standards, a closed ecosystem is created: The TGO certifies actors using the ITS, and the ITS enforces TGO rules.
+
+### 3.9 The Physical Sentinel (DNS-Mesh)
+The TGO's governance does not stop at the digital layer; it extends into the physical world through 6G ISAC (Integrated Sensing and Communication). 
+The TGO maintains the **Authorized Sensing Registry**. Unauthorized sensors that attempt to track, profile, or monitor individuals without consent are identified via RF-Fingerprinting and neutralized by the **Do-Not-Sense Mesh (DNS-Mesh)**. 
+The DNS-Mesh operates on TGO-certificate enforcement: Only sensors holding a valid, cryptographically signed TGO certificate (e.g., emergency services, authorized scientific institutions) are allowed to pass the physical privacy shield. Any sensor attempting to bypass this is met with a "Ghost Echo" and is subject to TGO blacklisting and penalties.
+
+4. Governance & Funding: Protection against Subversion
 
 ---
 
